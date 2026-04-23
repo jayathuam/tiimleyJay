@@ -35,9 +35,14 @@ const useEmployeeDetails = (employeeList: Employee[]) => {
     [employeeList],
   );
 
+  // This is the most important logic do all the sorting and filtering
+  // Do filter department first for improve the performance
+  // finally the sort
   const sortedAndFilteredEmployees = useMemo(() => {
     const results = enrichedEmployeeDetails
-      .filter((item) => item.department.includes(department === "All" ? "" : department))
+      .filter((item) =>
+        item.department.includes(department === "All" ? "" : department),
+      )
       .filter(
         (item) =>
           item.name
