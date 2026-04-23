@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Sharma",
+    "role": "Software Engineer",
+    "department": "Engineering",
+    "status": "Active",
+    "startDate": "2022-03-14",
+    "skills": ["React", "TypeScript", "GraphQL"],
+    "avatar": null
+  },
+  {
+    "id": 2,
+    "name": "James O'Brien",
+    "role": "Senior Software Engineer",
+    "department": "Engineering",
+    "status": "Active",
+    "startDate": "2021-06-01",
+    "skills": ["React", "Node.js", "AWS"],
+    "avatar": null
+  },
+  {
+    "id": 3,
+    "name": "Lin Chen",
+    "role": "Credit Assessor",
+    "department": "Operations",
+    "status": "On Leave",
+    "startDate": "2023-01-09",
+    "skills": ["Lending", "Compliance", "Excel"],
+    "avatar": null
+  },
+  {
+    "id": 4,
+    "name": "Sarah Mitchell",
+    "role": "Product Designer",
+    "department": "Product",
+    "status": "Active",
+    "startDate": "2022-11-21",
+    "skills": ["Figma", "CSS", "User Research"],
+    "avatar": null
+  },
+  {
+    "id": 5,
+    "name": "Tom Nguyen",
+    "role": "Test Engineer",
+    "department": "Engineering",
+    "status": "Active",
+    "startDate": "2023-07-17",
+    "skills": ["Playwright", "JavaScript", "CI/CD"],
+    "avatar": null
+  },
+  {
+    "id": 6,
+    "name": "Emma Wilson",
+    "role": "Software Engineer",
+    "department": "Engineering",
+    "status": "Probation",
+    "startDate": "2024-09-02",
+    "skills": ["Vue.js", "TypeScript", "REST APIs"],
+    "avatar": null
+  },
+  {
+    "id": 7,
+    "name": "Raj Patel",
+    "role": "Cloud Engineer",
+    "department": "Infrastructure",
+    "status": "Active",
+    "startDate": "2021-02-15",
+    "skills": ["AWS", "Terraform", "Docker"],
+    "avatar": null
+  },
+  {
+    "id": 8,
+    "name": "Olivia Harper",
+    "role": "Home Loan Specialist",
+    "department": "Operations",
+    "status": "Active",
+    "startDate": "2022-08-08",
+    "skills": ["Lending", "Customer Service", "Compliance"],
+    "avatar": null
+  },
+  {
+    "id": 9,
+    "name": "Daniel Kim",
+    "role": "Data Engineer",
+    "department": "Data",
+    "status": "Active",
+    "startDate": "2023-04-03",
+    "skills": ["Python", "SQL", "dbt"],
+    "avatar": null
+  },
+  {
+    "id": 9,
+    "name": "Lisa Turner",
+    "role": "Data Engineer",
+    "department": "Data",
+    "status": "Active",
+    "startDate": "2023-04-03",
+    "skills": ["Python", "SQL", "dbt"],
+    "avatar": null
+  },
+  {
+    "id": 10,
+    "name": "Megan Costa",
+    "role": "Software Engineer",
+    "department": "Engineering",
+    "status": "Active",
+    "startDate": "2020-11-30",
+    "skills": ["React", "C#", ".NET"],
+    "avatar": null
+  },
+  {
+    "id": 11,
+    "name": "Alex Turner",
+    "role": "Senior Software Engineer",
+    "department": "Engineering",
+    "status": "On Leave",
+    "startDate": "2019-05-20",
+    "skills": ["React", "TypeScript", "Mentoring"],
+    "avatar": null
+  },
+  {
+    "id": 12,
+    "name": "Yuki Tanaka",
+    "role": "Software Engineer",
+    "department": "Engineering",
+    "status": "Active",
+    "startDate": "2024-01-15",
+    "skills": ["Angular", "TypeScript", "RxJS"],
+    "avatar": null
+  }
+]
